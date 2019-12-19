@@ -1,9 +1,9 @@
 ## LaravelShoppingcart
-[![Build Status](https://travis-ci.org/Crinsane/LaravelShoppingcart.png?branch=master)](https://travis-ci.org/Crinsane/LaravelShoppingcart)
-[![Total Downloads](https://poser.pugx.org/gloudemans/shoppingcart/downloads.png)](https://packagist.org/packages/gloudemans/shoppingcart)
-[![Latest Stable Version](https://poser.pugx.org/gloudemans/shoppingcart/v/stable)](https://packagist.org/packages/gloudemans/shoppingcart)
-[![Latest Unstable Version](https://poser.pugx.org/gloudemans/shoppingcart/v/unstable)](https://packagist.org/packages/gloudemans/shoppingcart)
-[![License](https://poser.pugx.org/gloudemans/shoppingcart/license)](https://packagist.org/packages/gloudemans/shoppingcart)
+[![Build Status](https://travis-ci.org/Mohsen4887/LaravelShoppingcart.png?branch=master)](https://travis-ci.org/Mohsen4887/LaravelShoppingcart)
+[![Total Downloads](https://poser.pugx.org/wschool/shoppingcart/downloads.png)](https://packagist.org/packages/wschool/shoppingcart)
+[![Latest Stable Version](https://poser.pugx.org/wschool/shoppingcart/v/stable)](https://packagist.org/packages/wschool/shoppingcart)
+[![Latest Unstable Version](https://poser.pugx.org/wschool/shoppingcart/v/unstable)](https://packagist.org/packages/wschool/shoppingcart)
+[![License](https://poser.pugx.org/wschool/shoppingcart/license)](https://packagist.org/packages/wschool/shoppingcart)
 
 A simple shoppingcart implementation for Laravel.
 
