@@ -1,6 +1,6 @@
 <?php
 
-namespace Gloudemans\Shoppingcart;
+namespace Wschool\Shoppingcart;
 
 use Illuminate\Support\Collection;
 
